@@ -1,4 +1,4 @@
-# Extracting All zip files within a folder
+# Extracting all ZIP files within a folder
 As a Graphic Designer and an Video Editor, I have this problem frequently. 
 - I download a lot of files and supporting graphics from different sources
 - I download a lot of fonts for different projects 
